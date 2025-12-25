@@ -1,4 +1,4 @@
-public class aula02{
+public class aula03{
     public static void main(String[]args){
      String nome="josé";
      String endereco= "rua pedro pinto";
